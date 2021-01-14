@@ -1,0 +1,26 @@
+
+.close {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  right: 0%;
+  padding: 12px 16px;
+  transform: translate(0%, -50%);
+  border-radius: 3px;
+}
+
+.close:hover {background: #bbb;}
+
+.timeBox {
+  width: 100px;
+  length: 100px;
+  background-color: red;
+
+}
+.col {
+  text-align: center;
+  padding: 3px;
+}
+.row {
+  text.align: center;
+}
