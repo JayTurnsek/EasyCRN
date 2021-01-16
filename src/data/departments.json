@@ -1,43 +1,166 @@
-{
-   "ANTH - Anthropology",
-   "APEX - APEX",
-   "AQUA - Aquatic Resources",
-   "ART - Art",
-   "BIOL - Biology",
-   "BSAD - Business Administration",
-   "CATH - Catholic Studies",
-   "CELT - Celtic Studies",
-   "CHEM - Chemistry",
-   "CLAS - Classics",
-   "CLEN - Climate and Environment",
-   "COOP - Co-op",
-   "CSCI - Computer Science",
-   "DEVS - Development Studies",
-   "ECON - Economics",
-   "EDUC - Education",
-   "ENGL - English",
-   "ENGR - Engineering",
-   "ESCI - Earth Sciences",
-   "FREN - French",
-   "GERM - German",
-   "HIST - History",
-   "HKIN - Human Kinetics",
-   "HLTH - Health",
-   "HNU - Human Nutrition",
-   "IDS - Interdisciplinary Studies",
-   "MATH - Mathematics",
-   "MIKM - Mikmaq",
-   "MUSI - Music",
-   "NURS - Nursing",
-   "PGOV - Public Policy and Governance",
-   "PHIL - Philosophy",
-   "PHYS - Physics",
-   "PSCI - Political Science",
-   "PSYC - Psychology",
-   "RELS - Religious Studies",
-   "SMGT - Sports Management",
-   "SOCI - Sociology",
-   "SPAN - Spanish",
-   "STAT - Statistics",
-   "WMGS - Womens and Gender Studies"
-}
+[
+   {
+      "CODE":"ANTH",
+      "TITLE":"Anthropology"
+   },
+   {
+      "CODE":"APEX",
+      "TITLE":"APEX"
+   },
+   {
+      "CODE":"AQUA",
+      "TITLE":"Aquatic Resources"
+   },
+   {
+      "CODE":"ART",
+      "TITLE":"Art"
+   },
+   {
+      "CODE":"BIOL",
+      "TITLE":"Biology"
+   },
+   {
+      "CODE":"BSAD",
+      "TITLE":"Business Administration"
+   },
+   {
+      "CODE":"CATH",
+      "TITLE":"Catholic Studies"
+   },
+   {
+      "CODE":"CELT",
+      "TITLE":"Celtic Studies"
+   },
+   {
+      "CODE":"CHEM",
+      "TITLE":"Chemistry"
+   },
+   {
+      "CODE":"CLAS",
+      "TITLE":"Classics"
+   },
+   {
+      "CODE":"CLEN",
+      "TITLE":"Climate and Environment"
+   },
+   {
+      "CODE":"COOP",
+      "TITLE":"Co-op"
+   },
+   {
+      "CODE":"CSCI",
+      "TITLE":"Computer Science"
+   },
+   {
+      "CODE":"DEVS",
+      "TITLE":"Development Studies"
+   },
+   {
+      "CODE":"ECON",
+      "TITLE":"Economics"
+   },
+   {
+      "CODE":"EDUC",
+      "TITLE":"Education"
+   },
+   {
+      "CODE":"ENGL",
+      "TITLE":"English"
+   },
+   {
+      "CODE":"ENGR",
+      "TITLE":"Engineering"
+   },
+   {
+      "CODE":"ESCI",
+      "TITLE":"Earth Sciences"
+   },
+   {
+      "CODE":"FREN",
+      "TITLE":"French"
+   },
+   {
+      "CODE":"GERM",
+      "TITLE":"German"
+   },
+   {
+      "CODE":"HIST",
+      "TITLE":"History"
+   },
+   {
+      "CODE":"HKIN",
+      "TITLE":"Human Kinetics"
+   },
+   {
+      "CODE":"HLTH",
+      "TITLE":"Health"
+   },
+   {
+      "CODE":"HNU",
+      "TITLE":"Human Nutrition"
+   },
+   {
+      "CODE":"IDS",
+      "TITLE":"Interdisciplinary Studies"
+   },
+   {
+      "CODE":"MATH",
+      "TITLE":"Mathematics"
+   },
+   {
+      "CODE":"MIKM",
+      "TITLE":"Mikmaq"
+   },
+   {
+      "CODE":"MUSI",
+      "TITLE":"Music"
+   },
+   {
+      "CODE":"NURS",
+      "TITLE":"Nursing"
+   },
+   {
+      "CODE":"PGOV",
+      "TITLE":"Public Policy and Governance"
+   },
+   {
+      "CODE":"PHIL",
+      "TITLE":"Philosophy"
+   },
+   {
+      "CODE":"PHYS",
+      "TITLE":"Physics"
+   },
+   {
+      "CODE":"PSCI",
+      "TITLE":"Political Science"
+   },
+   {
+      "CODE":"PSYC",
+      "TITLE":"Psychology"
+   },
+   {
+      "CODE":"RELS",
+      "TITLE":"Religious Studies"
+   },
+   {
+      "CODE":"SMGT",
+      "TITLE":"Sports Management"
+   },
+   {
+      "CODE":"SOCI",
+      "TITLE":"Sociology"
+   },
+   {
+      "CODE":"SPAN",
+      "TITLE":"Spanish"
+   },
+   {
+      "CODE":"STAT",
+      "TITLE":"Statistics"
+   },
+   {
+      "CODE":"WMGS",
+      "TITLE":"Womens and Gender Studies"
+   }
+]

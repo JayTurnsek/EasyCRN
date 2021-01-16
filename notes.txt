@@ -1,0 +1,10 @@
+- Search Bar non-functional
+- Course CRN list non-functional
+- Events overlap
+
+FEATURES TO IMPLEMENT:
+- Term split
+- Export to Apple/Google calendar
+- navbar
+- Search by code
+- add by CRN
