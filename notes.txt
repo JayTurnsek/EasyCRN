@@ -1,5 +1,5 @@
+- CRN list adds CRN during duplicate
 - Search Bar non-functional
-- Course CRN list non-functional
 - Events overlap
 
 FEATURES TO IMPLEMENT:
