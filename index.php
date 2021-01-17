@@ -25,7 +25,6 @@
     <!-- CourseList -->
     <script src="src/scripts/main.js"></script>
 
-
     <?php
     ## Course data init ##
 
@@ -255,7 +254,7 @@
         <h4 style="text-align: center; color: black">My Courses &nbsp<span id="courseCount" class="badge bg-danger"></span></h4>
         <br>
         <div class="row p-2">
-          <div class="col-9 rounded bg-primary pt-2 border-myBorder">
+          <div class="col-9 rounded bg-primary pt-2 border-myBorder" id="listJumbo">
             <h5 style="color: white">Courses Selected:</h5>
             <ul id="crnList">
             </ul>
