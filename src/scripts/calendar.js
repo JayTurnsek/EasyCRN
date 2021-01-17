@@ -1,4 +1,4 @@
-
+let copyCodes = [];
 
 // Calendar init
 document.addEventListener('DOMContentLoaded', function() {
@@ -72,6 +72,16 @@ document.addEventListener('DOMContentLoaded', function() {
           });
         }
 
+        // Adding to copy-able list of CRNs
+        copyCodes.push(curCRN);
+        var listText = '';
+        for (i = 0; i < copyCodes.length; i++) {
+          listText += copyCodes[i] + "\n";
+        }
+        document.getElementById('finalList').value = listText;
+
+
+
         // My Course List Handling
         var span = 'span'.concat(curCRN);
         document.getElementById(span).addEventListener('click', function() {
@@ -79,6 +89,18 @@ document.addEventListener('DOMContentLoaded', function() {
             var e = calendar.getEventById(curCRN);
             e.remove();
           }
+
+          // copyable CRN list handling
+          var index = copyCodes.indexOf(curCRN);
+          if (index > -1) {
+            copyCodes.splice(index, 1);
+          }
+          listText = '';
+          for (i = 0; i < copyCodes.length; i++) {
+            listText += copyCodes[i] + "\n";
+          }
+          document.getElementById('finalList').value = listText;
+
           var textarea = document.getElementById("finalList");  //intead of "input"
           var data = textarea.value;
           for (var i = 0; i < data.length; i++) {
